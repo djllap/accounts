@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+FlexNotebook is an ongoing project with the aim to organize data in a dynamic and user friendly way.  It is built on Ruby on Rails and incoorperates React.JS into the view layer.  
 
-Things you may want to cover:
+Most recent live verion can be found here: https://flexnotebook.herokuapp.com
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Author: Daniel Kent kentpercussion@gmail.com
